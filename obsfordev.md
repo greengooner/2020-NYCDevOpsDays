@@ -28,5 +28,9 @@
     * Tools should speak my language (for devs)
     * Share patterns where possible
     * Change is incremental and iterative
+* Takeaways for Ops
+    * Most prod tools can be taught to "speak dev"
+    * Observability empowers devs
+    
 
 
