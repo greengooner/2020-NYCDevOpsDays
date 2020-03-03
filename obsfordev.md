@@ -20,4 +20,13 @@
         * Cocus on the pain (depth) - ex. Instrument one endpoint and only do what is useful for the team
         * Instrument from where you control
         * Capture what matters to you (context)
+    * Useful tactics
+        * Plan to visualize - Machine readable logs, humans aren't reading them without tools
+        * Name consistently - Camel case issues, etc
+        * Add temporary fields + prune stale ones
+* Principles
+    * Tools should speak my language (for devs)
+    * Share patterns where possible
+    * Change is incremental and iterative
+
 

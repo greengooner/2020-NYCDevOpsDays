@@ -1,4 +1,4 @@
-# DevOps Days NYC 2019 Notes
+# DevOps Days NYC 2020 Notes
 
 ## Day 1
 * [Are you ready for production?](ready.md)
