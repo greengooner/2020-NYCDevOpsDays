@@ -23,3 +23,28 @@
 * Feature your failures
 * Tell Your Story!
 * End Result -> Better Projects
+
+## Infrastructure Changes
+* Modules
+* Versioning
+* Why infra changes
+    * Bare Metal
+    * Client-Specific Deploy
+* Infra goals
+    * CI Builds
+    * Automated Test
+* Obey the Build
+    * Services, computer, networking
+* Phased Deployments
+* Decouple Child Modules
+* Version Child Module
+
+## DevSecOps is a misnomer
+* Status Quo
+    * Lost in Translation
+* People, Process, Tech integration
+* Security exists in all parts of the DevOps stages (DevOps Infinity Symbol)
+
+
+
+
