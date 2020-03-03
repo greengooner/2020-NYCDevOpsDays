@@ -45,6 +45,19 @@
 * People, Process, Tech integration
 * Security exists in all parts of the DevOps stages (DevOps Infinity Symbol)
 
+# Resilience Engineering - Alspaw
+* Non-incident time - Resilience Engineering
+    * 20 year old field, community
+* Activities to sustain adaptation
+* Plays out in:
+    * Unforseen
+    * Unantapicpated
+* Understanding RE will take time
+    * Concepts are not intuitive
+    
+
+
+
 
 
 
