@@ -9,3 +9,4 @@
 * [Reliability Scoring: A 3-Part Formula for Promoting Reliable Code](reliabilityscoring.md)
 
 ## Day 2
+* [10 years of #devops, but what did we really learn?](10years.md)
