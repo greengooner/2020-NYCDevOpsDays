@@ -1,4 +1,4 @@
-# Lightning Talks
+# Ignite Talks
 
 ## Productionalizing Data Science
 * Intro - Model Files, Metrics (Jupyter Notebooks)
