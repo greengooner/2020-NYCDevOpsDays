@@ -14,3 +14,4 @@
 * [Ignite Talk](lightningtalk2.md)
 * [Product Management for Platform Engineering: Why it matters and why it may be right for you](PMforPE.md)
 * [The Lifecycle of a Service](ServiceLifecycle.md)
+* [Low-Context DevOps: Helping DevOps find answers faster](helpdevops.md)
