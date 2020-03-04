@@ -13,3 +13,4 @@
 * [Cooperative Economics for Engineers; or, Why You Have More In Common With Pirate Fleets Than With Your Manager](coop.md)
 * [Ignite Talk](lightningtalk2.md)
 * [Product Management for Platform Engineering: Why it matters and why it may be right for you](PMforPE.md)
+* [The Lifecycle of a Service](ServiceLifecycle.md)
