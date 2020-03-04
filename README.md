@@ -10,3 +10,4 @@
 
 ## Day 2
 * [10 years of #devops, but what did we really learn?](10years.md)
+* [Cooperative Economics for Engineers; or, Why You Have More In Common With Pirate Fleets Than With Your Manager](coop.md)
